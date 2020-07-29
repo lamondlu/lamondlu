@@ -9,4 +9,11 @@
 -  :star: My blogs are http://lamondlu.net and https://www.cnblogs.com/lwqlun
 -  :star: I'm building a open-source dynamic plugin feature in ASP.NET Core MVC, the project called [Mystique](https://github.com/lamondlu/Mystique/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lamondlu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lamondlu&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lamondlu&repo=convoychat" />
+</a>
