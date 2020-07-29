@@ -11,7 +11,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lamondlu&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lamondlu&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamondlu)](https://github.com/anuraghazra/github-readme-stats)
 
