@@ -8,3 +8,5 @@
 -  :star: I'm interested in DDD, CQR, Event Source, Design Pattern
 -  :star: My blogs are http://lamondlu.net and https://www.cnblogs.com/lwqlun
 -  :star: I'm building a open-source dynamic plugin feature in ASP.NET Core MVC, the project called [Mystique](https://github.com/lamondlu/Mystique/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lamondlu)](https://github.com/anuraghazra/github-readme-stats)
