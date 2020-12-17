@@ -7,7 +7,7 @@
 -  :star: I'm a Project Manager and Solution Architect.
 -  :star: I'm interested in DDD, CQR, Event Source, Design Pattern
 -  :star: My blogs are http://lamondlu.net and https://www.cnblogs.com/lwqlun
--  :star: I'm building a open-source dynamic plugin feature in ASP.NET Core MVC, the project called [Mystique](https://github.com/lamondlu/Mystique/)
+-  :star: I'm building a open-source dynamic plugin feature in ASP.NET Core MVC, the project called [CoolCat](https://github.com/lamondlu/CoolCat/)
 
 
 
